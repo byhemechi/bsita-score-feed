@@ -50,7 +50,7 @@ const scoreMessage = ({
           {
             type: 2,
             style: 5,
-            url: `https://scoresaber.com/leaderboard/${leaderboard.id}?countries=AU,NZ`,
+            url: `https://scoresaber.com/leaderboard/${leaderboard.id}?countries=IT`,
             label: "Full Leaderboard",
           },
         ],
